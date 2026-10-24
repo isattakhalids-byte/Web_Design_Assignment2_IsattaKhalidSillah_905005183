@@ -1,0 +1,2 @@
+# Web_Design_Assignment2_IsattaKhalidSillah_905005183
+# ChopWise A budget-based meal discovery website for Freetown, Sierra Leone (DCOMP 204, Assignment 2). Pick Le 20, Le 30 or Le 50 and see meals you can afford, so students and workers save time and spend smarter. Built with HTML and CSS only: five responsive pages for mobile, tablet and desktop. Open index.html to run. Author: Khalid (Limkokwing).
